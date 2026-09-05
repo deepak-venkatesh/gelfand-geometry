@@ -1,0 +1,15 @@
+# Ignore everything
+*
+
+# But keep .gitignore itself
+!.gitignore
+
+# Keep .pdf and .tex files
+!*.pdf
+!*.tex
+!*.md
+!*.ipynb
+
+# Keep the figures folder
+!figures/
+!figures/**
